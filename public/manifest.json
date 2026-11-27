@@ -1,0 +1,17 @@
+{
+  "name": "Мои места в Петербурге",
+  "short_name": "Места СПб",
+  "description": "Интерактивная карта мест Санкт-Петербурга с привязкой видео из влога",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#7c3aed",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
